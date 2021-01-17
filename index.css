@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+    background-color: #dccf6b;
+}
+
+section {
+    padding: 55px;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+h1 {
+    color: cadetblue;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+#container {
+    padding: 25px;
+    border: 5px solid cadetblue;
+    margin-left: 24%;
+    width: 45%;
+    background-color: azure;
+}
+
+input {
+    border: 2px solid cadetblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+button {
+    border-radius: 50px;
+    height: 75px;
+    width: 75px;
+    display: block;
+    margin-left: 45%;
+    border: 2px solid #dccf6b;
+    background-color: azure;
+    font-family: 'Dancing Script', cursive;
+    color: cadetblue;
+}
+
+img {
+    padding: 25;
+}
